@@ -1,6 +1,8 @@
 🤖 AI Career Intelligence Platform
+
 AI Job Market Analysis & Salary Prediction System
 Try the live application here : https://aijobproject-5yg5entriv2xrz9svqyl9m.streamlit.app/
+
 A Machine Learning-powered Career Intelligence Platform that analyzes global AI job market trends, predicts salaries, explores country-wise opportunities, and provides structured career roadmaps for aspiring AI professionals.
 
 📌 Project Overview
