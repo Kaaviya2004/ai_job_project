@@ -1,0 +1,55 @@
+role,step_no,step
+Data Scientist,1,Python
+Data Scientist,2,NumPy
+Data Scientist,3,Pandas
+Data Scientist,4,Data Visualization
+Data Scientist,5,Statistics
+Data Scientist,6,SQL
+Data Scientist,7,Machine Learning
+Data Scientist,8,Projects
+Data Scientist,9,Portfolio
+
+Machine Learning Engineer,1,Python
+Machine Learning Engineer,2,Data Structures
+Machine Learning Engineer,3,Statistics
+Machine Learning Engineer,4,Machine Learning
+Machine Learning Engineer,5,Deep Learning
+Machine Learning Engineer,6,TensorFlow or PyTorch
+Machine Learning Engineer,7,MLOps
+Machine Learning Engineer,8,Docker
+Machine Learning Engineer,9,Cloud Deployment
+
+AI Research Scientist,1,Mathematics
+AI Research Scientist,2,Linear Algebra
+AI Research Scientist,3,Probability
+AI Research Scientist,4,Deep Learning
+AI Research Scientist,5,Transformers
+AI Research Scientist,6,Research Papers
+AI Research Scientist,7,LLMs
+AI Research Scientist,8,Model Development
+
+NLP Engineer,1,Python
+NLP Engineer,2,Machine Learning
+NLP Engineer,3,Natural Language Processing
+NLP Engineer,4,Transformers
+NLP Engineer,5,BERT
+NLP Engineer,6,LLMs
+NLP Engineer,7,RAG
+NLP Engineer,8,Deployment
+
+Computer Vision Engineer,1,Python
+Computer Vision Engineer,2,OpenCV
+Computer Vision Engineer,3,Machine Learning
+Computer Vision Engineer,4,Deep Learning
+Computer Vision Engineer,5,CNN
+Computer Vision Engineer,6,YOLO
+Computer Vision Engineer,7,Object Detection
+Computer Vision Engineer,8,Projects
+
+Data Analyst,1,Excel
+Data Analyst,2,SQL
+Data Analyst,3,Python
+Data Analyst,4,Pandas
+Data Analyst,5,Power BI
+Data Analyst,6,Statistics
+Data Analyst,7,Dashboard Projects
